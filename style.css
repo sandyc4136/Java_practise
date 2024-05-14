@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: auto; 
+  }
+  
+  .box{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+  }
+
+  /* .nav{
+    background-color: aliceblue;
+  }
+
+  .nav li{
+    display: block;
+    
+  } */
